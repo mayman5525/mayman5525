@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayman5525](https://github.com/mayman5525)
 
-- 💬 Ask me about **express , nest , nodejs, TypeScript , JavaSpring**
+- 💬 Ask me about **express , AWS , nodejs, JavaSpring**
 
 - 📫 How to reach me **m.ayman2898@gmail.com**
 
