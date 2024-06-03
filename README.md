@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 <h3 align="center">A passionate Backend Engineer from egypt</h3>
 <img align = "right" ait = "Coding" width = "400" src = "https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen"> 
-- 🔭 I’m currently working on [SKYSOFT](https://www.linkedin.com/company/skysoftware/)
+- 🔭 I’m currently working on a freelance project
+- 🌱 I’m currently learning **springboot** , **aws**
 
-- 🌱 I’m currently learning **springboot**
+- 👯 I’m looking to collaborate on **startup company**
 
-- 👯 I’m looking to collaborate on **JAVASPRING-backend**
+- 👨‍💻 All of my projects are available at  [https://github.com/mayman5525](https://github.com/mayman5525) inclding the organizations
 
-- 🤝 I’m looking for help with **integration with paymob-gateway**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mayman5525](https://github.com/mayman5525)
-
-- 💬 Ask me about **express , AWS , nodejs, JavaSpring**
+- 💬 Ask me about **express , AWS , nodejs**
 
 - 📫 How to reach me **m.ayman2898@gmail.com**
 
