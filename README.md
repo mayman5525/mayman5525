@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Backend Engineer from egypt</h3>
 <img align = "right" ait = "Coding" width = "400" src = "https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen"> 
 - 🔭 I’m currently working on a freelance project
-- 🌱 I’m currently learning **springboot** , **aws**
-
+- 🌱 I’m currently learning SpringBoot - aws
 - 👯 I’m looking to collaborate on **startup company**
 
 - 👨‍💻 All of my projects are available at  [https://github.com/mayman5525](https://github.com/mayman5525) inclding the organizations
